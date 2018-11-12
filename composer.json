@@ -1,5 +1,5 @@
 {
-    "name": "akeneo/phpspec-skip-example-extension",
+    "name": "pamil/phpspec-skip-example-extension",
     "description": "Skip your PhpSpec examples through annotations",
     "license": "MIT",
     "authors": [
